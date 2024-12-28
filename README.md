@@ -13,6 +13,7 @@ Die **ToDoList App** ist eine moderne und benutzerfreundliche Aufgabenverwaltung
 - **Kontaktseite**: Eine Seite mit einer Einleitung und Kontaktdaten, um den Entwickler zu kontaktieren.
 
 ## Screenshots
+![Screenshot](./Simulator Screenshot - iPhone 16 Pro - 2024-12-28 at 16.38.17.png)
 
 
 
